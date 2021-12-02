@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Documents\fabianatercercorte\obj\Debug\net5.0\fabianatercercorte.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Documents\fabianatercercorte\obj\Debug\net5.0\fabianatercercorte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Documents\fabianatercercorte\obj\Debug\net5.0\fabianatercercorte.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\fabianatercercorte\obj\Debug\net5.0\fabianatercercorte.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\fabianatercercorte\obj\Debug\net5.0\fabianatercercorte.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\fabianatercercorte\bin\Debug\net5.0\fabianatercercorte.exe
+C:\Users\Marcelo\Documents\fabianatercercorte\bin\Debug\net5.0\fabianatercercorte.deps.json
+C:\Users\Marcelo\Documents\fabianatercercorte\bin\Debug\net5.0\fabianatercercorte.runtimeconfig.json
+C:\Users\Marcelo\Documents\fabianatercercorte\bin\Debug\net5.0\fabianatercercorte.runtimeconfig.dev.json
+C:\Users\Marcelo\Documents\fabianatercercorte\bin\Debug\net5.0\fabianatercercorte.dll
+C:\Users\Marcelo\Documents\fabianatercercorte\bin\Debug\net5.0\ref\fabianatercercorte.dll
+C:\Users\Marcelo\Documents\fabianatercercorte\bin\Debug\net5.0\fabianatercercorte.pdb
+C:\Users\Marcelo\Documents\fabianatercercorte\obj\Debug\net5.0\fabianatercercorte.dll
+C:\Users\Marcelo\Documents\fabianatercercorte\obj\Debug\net5.0\ref\fabianatercercorte.dll
+C:\Users\Marcelo\Documents\fabianatercercorte\obj\Debug\net5.0\fabianatercercorte.pdb
+C:\Users\Marcelo\Documents\fabianatercercorte\obj\Debug\net5.0\fabianatercercorte.genruntimeconfig.cache
